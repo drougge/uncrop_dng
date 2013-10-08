@@ -1,0 +1,9 @@
+Update the DefaultCrop in a DNG to match ActiveArea.
+
+Apparently some software (LightRoom, DarkTable, no doubt others) enforces
+the DefaultCrop, which may have been set against your wishes by the camera.
+This program sets it to match the ActiveArea. Might not work on all files,
+tested on the files from the Pentax Q7 (with the 03 fish-eye lens, which it
+crops).
+
+Backup your DNG before trying this.
